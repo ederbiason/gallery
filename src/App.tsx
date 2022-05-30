@@ -1,7 +1,13 @@
-
+import {Container, Area, Header } from './App.styles';
 
 export function App() {
   return (
-    <div>Hello world</div>
+    <Container>
+      <Area>
+        <Header>Galeria de Fotos</Header>
+
+        
+      </Area>
+    </Container>
   );
 }
