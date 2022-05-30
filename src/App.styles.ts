@@ -1,10 +1,8 @@
 import styled from "styled-components";
 
 export const Container = styled.div`
-    background-color: #27282F;
-    color: #FFFFFF;
     min-height: 100vh;
-    margin: 0;
+    max-width: 100%;
 `
 
 export const Area = styled.div`
